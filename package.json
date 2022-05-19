@@ -1,0 +1,19 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "lab1",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "aboutus.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "LeVoAnhDuy",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
